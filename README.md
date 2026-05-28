@@ -1,1 +1,2 @@
-SFML Project
+# Digimon-Battle
+C++ SFML Project
